@@ -2,3 +2,9 @@ Library/PackageCache/com.unity.burst@1.8.2/.Runtime/libburst-llvm-14.dylib filte
 track filter=lfs diff=lfs merge=lfs -text
 Library/PackageCache/com.unity.burst@1.8.2/.Runtime/libburst-llvm-14.dylibgit filter=lfs diff=lfs merge=lfs -text
 lfs filter=lfs diff=lfs merge=lfs -text
+[[:space:]]Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.8.2/.Runtime/burst-llvm-14.dll filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.8.2/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.8.2/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst@1.8.2/.Runtime/libburst-llvm-14.so filter=lfs diff=lfs merge=lfs -text
